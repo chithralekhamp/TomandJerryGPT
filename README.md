@@ -35,3 +35,6 @@ The integration of Tom&JerryGPT serves the purpose of creating a more dynamic an
 ## 🔦 Highlights
 
 Bot stands out due to its advanced AI technology, customization options, versatility, and reliability. It offers an exceptional solution for enhancing Discord communities by providing natural language interactions, sharing knowledge, and fostering engagement. This combination of capabilities sets it apart from other chatbots and AI solutions.
+
+## How to Invite Tom&JerryGPT into your Server
+Click the link -> https://chithralekhamp.github.io/TomandJerryGPT/
