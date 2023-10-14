@@ -52,4 +52,8 @@ Mention the bot and ask Anything that you want to Know.
 
 ![Screenshot 2023-10-14 151008](https://github.com/chithralekhamp/TomandJerryGPT/assets/82331436/d1145c42-a5bf-428e-a4c4-1e5f2c5aafee)
 
+## License
 
+This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
+
+Copyright (c) 2023 CHITHRALEKHA M P
