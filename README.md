@@ -1,3 +1,5 @@
+
+![3](https://github.com/chithralekhamp/TomandJerryGPT/assets/82331436/f3c56df3-24cb-4518-a348-a2b39aff4e78)
 ## RoboCraft -> Tom&JerryGPT 🤖
 **Introduction**<br> 
 Discord has become a central platform for gathering, socializing,collaborating, and learning.For a learning communities there is some limitations to guide of of the members. **Tom&JerryGPT**, an AI chatbot powered by the OpenAI API offers a powerful solution.The bot leverages cutting-edge natural language processing capabilities to facilitate intelligent conversations, provide information, and foster interactions within Discord servers.It can take vital role for engaging and enhance community activities also.
@@ -38,3 +40,16 @@ Bot stands out due to its advanced AI technology, customization options, versati
 
 ## How to Invite Tom&JerryGPT into your Server
 Click the link -> https://chithralekhamp.github.io/TomandJerryGPT/
+
+![Screenshot 2023-10-14 151324](https://github.com/chithralekhamp/TomandJerryGPT/assets/82331436/e1cc1709-d079-48c7-8974-88f579f37dfb)
+
+![Screenshot 2023-10-14 151420](https://github.com/chithralekhamp/TomandJerryGPT/assets/82331436/cceaa1aa-6983-4cce-a4c1-f5e1975d14c8)
+
+## How to communicate with Tom&JerryGPT
+Mention the bot and ask Anything that you want to Know.
+
+**@Tom&JerryGPT** (Message here)
+
+![Screenshot 2023-10-14 151008](https://github.com/chithralekhamp/TomandJerryGPT/assets/82331436/d1145c42-a5bf-428e-a4c4-1e5f2c5aafee)
+
+
