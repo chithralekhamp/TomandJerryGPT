@@ -1,6 +1,8 @@
 
 ![3](https://github.com/chithralekhamp/TomandJerryGPT/assets/82331436/f3c56df3-24cb-4518-a348-a2b39aff4e78)
-## RoboCraft -> Tom&JerryGPT 🤖
+## Tom&JerryGPT by RoboCraft    <img src='https://github.com/chithralekhamp/TomandJerryGPT/assets/82331436/1b823e6b-68ee-415c-bbd7-97e5d7cca539' width='30'>                                                                                                         
+
+
 **Introduction**<br> 
 Discord has become a central platform for gathering, socializing,collaborating, and learning.For a learning communities there is some limitations to guide of of the members. **Tom&JerryGPT**, an AI chatbot powered by the OpenAI API offers a powerful solution.The bot leverages cutting-edge natural language processing capabilities to facilitate intelligent conversations, provide information, and foster interactions within Discord servers.It can take vital role for engaging and enhance community activities also.
 
